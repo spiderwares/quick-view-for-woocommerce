@@ -1,0 +1,1 @@
+# quick-view-for-woocommerce
