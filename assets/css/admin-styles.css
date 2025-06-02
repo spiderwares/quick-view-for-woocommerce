@@ -1,0 +1,201 @@
+.qvwc_admin_page .card {
+    border-color: #eee;
+    max-width: 100%;
+}
+
+.qvwc_admin_settings_page .qvwc_admin_settings_page_nav .nav-tab-wrapper {
+    border-color: #eee;
+}
+
+.qvwc_admin_settings_page .qvwc_admin_settings_page_nav .nav-tab-wrapper a.nav-tab-active,
+.qvwc_admin_settings_page .qvwc_admin_settings_page_nav .nav-tab-wrapper a:hover {
+    background-color: #fafafa;
+    border-color: #fafafa;
+}
+
+.qvwc_admin_settings_page .qvwc_admin_settings_page_nav .nav-tab-wrapper a {
+    margin-left: 0;
+    margin-right: 7px;
+    padding: 10px 20px;
+    outline: none;
+    box-shadow: none;
+    border-color: #eee;
+    background-color: #e5e5e5;
+}
+
+.qvwc_admin_settings_page .qvwc_admin_settings_page_content {
+    border-width: 0 1px 1px 1px;
+    border-style: solid;
+    border-color: #eee;
+    background-color: #fff;
+    display: inline-block;
+    width: 100%;
+    margin: 0;
+}
+
+.qvwc_admin_settings_page .qvwc_admin_settings_page_content table tr.heading {
+    border-bottom: 1px dashed #eeeeee;
+}
+
+.qvwc_admin_settings_page .qvwc_admin_settings_page_content table {
+    margin: 0;
+    padding: 0;
+    border-spacing: 0;
+    border-collapse: unset;
+}
+
+.qvwc_admin_settings_page .qvwc_admin_settings_page_content table tr th,
+.qvwc_admin_settings_page .qvwc_admin_settings_page_content table tr td {
+    padding: 15px 20px;
+    border-bottom: 1px dashed #eee;
+}
+
+.qvwc_admin_settings_page .qvwc_admin_settings_page_content table tr th,
+.qvwc_admin_settings_page .qvwc_admin_settings_page_content table tr td {
+    padding: 15px 20px;
+    border-bottom: 1px dashed #eee;
+}
+
+.qvwc_admin_settings_page .qvwc_admin_settings_page_content table tr.submit p {
+    margin: 0;
+    padding: 0;
+}
+
+.qvwc_admin_settings_page_nav .nav-tab {
+    display: flex;
+    gap: 10px;
+}
+
+.qvwc-select-field select,
+.qvwc-number-field input[type="number"],
+.qvwc-text-field input[type="text"] {
+    min-width: 350px;
+    padding: 3px 10px;
+    border-radius: 2px;
+}
+
+.qvwc_admin_settings_page_content .heading th{
+    font-size: 22px;
+}
+
+/*--------------------------- Start Switch Field ------------------------------*/
+.qvwc-switch-field {
+    display: flex;
+    align-items: center;
+}
+
+.qvwc-switch-field input {
+    display: none;
+}
+
+.qvwc-switch-field label {
+    position: relative;
+    display: inline-block;
+    width: 44px;
+    height: 24px;
+    background-color: #e2e8f0;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.qvwc-switch-field input:checked + label {
+    background-color: #7f54b3;
+}
+
+.qvwc-switch-field label::before {
+    content: "";
+    position: absolute;
+    top: 1px;
+    left: 1px;
+    width: 22px;
+    height: 22px;
+    background-color: #fff;
+    border-radius: 50%;
+    transition: transform 0.3s ease;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.qvwc-switch-field input:checked + label::before {
+    transform: translateX(20px);
+}
+
+.qvwc-switch-field .qvwc-switch-icon {
+    position: relative;
+    top: 50%;
+    left: 72%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.qvwc-switch-field .qvwc-icon-on,
+.qvwc-switch-field .qvwc-icon-off {
+    width: 14px;
+    height: 15px;
+}
+
+.qvwc-switch-field input:checked + label .qvwc-icon-on {
+    display: block;
+}
+
+.qvwc-switch-field input:not(:checked) + label .qvwc-icon-off {
+    display: block;
+}
+
+.qvwc-switch-field input:not(:checked) + label .qvwc-icon-on {
+    display: none;
+}
+
+.qvwc-switch-field input:checked + label .qvwc-icon-off {
+    display: none;
+}
+
+
+.qvwc-switch-field svg.qvwc-icon-off {
+    position: absolute;
+    left: -11%;
+}
+
+.qvwc-switch-field .qvwc-switch-icon svg {
+    stroke: #94a3b8;
+    stroke-width: 2;
+}
+
+.qvwc-switch-field .qvwc-switch-icon .qvwc-icon-on {
+    stroke: #7f54b3;
+}
+
+/*--------------------------- End Switch Field ------------------------------*/
+
+.qvwc-input-group input[type="text"],
+.qvwc-input-group button.qvwc-remove-field,
+#etwc_add_field{
+    padding: 3px 10px;
+    border-radius: 2px;
+}
+
+#product_compare_style option:disabled {
+    background-color: #f2f2f2;
+    color: #a0a0a0;
+    cursor: not-allowed;
+}
+
+.qvwc_admin_settings_page .qvwc_admin_settings_page_content table tr th.qvwctitle {
+    font-size: 22px;
+    padding-top: 35px;
+}
+
+.qvwc-size-field {
+    display: flex;
+    gap: 20px;
+}
+
+.qvwc-size-field input[type="number"] {
+    padding: 3px 10px;
+    border-radius: 2px;
+    max-width: 163px;
+}

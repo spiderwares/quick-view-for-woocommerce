@@ -1,0 +1,533 @@
+# Copyright (C) 2025 SpiderWares
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Quickview For Woocommerce 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/quickview-for-woocommerce\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-05-02T18:52:06+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: quickview-for-woocommerce\n"
+
+#. Plugin Name of the plugin
+#: D:\wamp64\www\quick-view\wp-content\plugins\quickview-for-woocommerce\quickview-for-woocommerce.php
+msgid "Quickview For Woocommerce"
+msgstr ""
+
+#. Description of the plugin
+#: D:\wamp64\www\quick-view\wp-content\plugins\quickview-for-woocommerce\quickview-for-woocommerce.php
+msgid "Add multi-currency support to your WooCommerce store. Automatically convert prices and allow customers to switch currencies with ease."
+msgstr ""
+
+#. Author of the plugin
+#: D:\wamp64\www\quick-view\wp-content\plugins\quickview-for-woocommerce\quickview-for-woocommerce.php
+msgid "SpiderWares"
+msgstr ""
+
+#. Author URI of the plugin
+#: D:\wamp64\www\quick-view\wp-content\plugins\quickview-for-woocommerce\quickview-for-woocommerce.php
+msgid "https://spiderwares.com/"
+msgstr ""
+
+#: includes/admin/settings/class-qvwc-admin-menu.php:107
+#: includes/admin/settings/class-qvwc-admin-menu.php:108
+#: includes/admin/settings/views/quick-view/admin-settings.php:162
+#: includes/admin/settings/views/quick-view/admin-settings.php:179
+#: includes/public/class-qvwc-general.php:131
+msgid "Quick View"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view-menu.php:11
+msgid "General"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view-menu.php:18
+msgid "Style"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view-menu.php:27
+msgid "Premium Features"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:20
+msgid "Enable Quick View"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:24
+msgid "Enable Quick View For WooCommerce."
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:27
+msgid "Enable Quick View on mobile"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:31
+msgid "Enable Quick View on mobile devices."
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:35
+msgid "Single Page Setting"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:40
+msgid "Display Position On Single Page"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:45
+#: includes/admin/settings/views/quick-view/admin-settings.php:87
+msgid "Disable Button/Icon"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:46
+#: includes/admin/settings/views/quick-view/admin-settings.php:88
+msgid "Over The Image"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:47
+msgid "Top of Product Page"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:48
+msgid "Before Product Title"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:49
+msgid "After Product Title"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:50
+msgid "After Short Description"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:51
+msgid "Before Quantity Input Field"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:52
+msgid "After Quantity Input Field"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:53
+msgid "Before Add to Cart Button"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:54
+msgid "After Add to Cart Button"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:55
+msgid "After Product Meta Information"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:58
+msgid "Choose how Button/Icon Position on single page."
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:61
+msgid "Icon Position in Single Page"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:66
+#: includes/admin/settings/views/quick-view/admin-settings.php:116
+msgid "Top Left"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:67
+#: includes/admin/settings/views/quick-view/admin-settings.php:117
+msgid "Top Right"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:68
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:69
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:73
+msgid "Choose the position of icons on the single product page."
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:77
+msgid "Shop / Archive Page Setting"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:82
+msgid "Display Position On Shop Page"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:89
+msgid "After Featured Image/Before Title"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:90
+msgid "After Title"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:91
+msgid "Before Add to Cart"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:92
+msgid "After Add to Cart"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:95
+msgid "Choose how Button/Icon Position on single and archive page."
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:98
+msgid "Icon Display Type"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:103
+msgid "Fixed"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:104
+msgid "On Hover"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:108
+msgid "Choose how icons should appear on product images."
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:111
+msgid "Icon Position in Shop"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:121
+msgid "Choose the position of icons in product loops (shop, category pages)."
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:127
+msgid "Other Setting"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:132
+msgid "Product Description"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:137
+msgid "Show short description"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:138
+msgid "Show full description"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:140
+msgid "Choose whether to display the short or full product description in Quick View."
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:143
+msgid "Product Image Dimensions"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:150
+msgid "Set the dimensions for the product image in Quick View."
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:153
+msgid "Quick View Style"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:156
+msgid "Get the Pro version to enable the Quick View style"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:160
+msgid "Quick View Button Label"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:164
+msgid "Customize the label of the Quick View button."
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:184
+msgid "Content Background"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:190
+msgid "Overlay Color"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:196
+msgid "Overlay Opacity"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:205
+msgid "Close Icon"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:210
+msgid "Color"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:216
+msgid "Color Hover"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:222
+msgid "Quick View Button"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:227
+msgid "Background Color"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:233
+msgid "Background Hover"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:239
+msgid "Text Color"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:245
+msgid "Text Hover"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:251
+msgid "Content style"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:256
+msgid "Main Text Color"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:259
+msgid "Get the Pro version to enable Main Text Color"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:264
+msgid "Star Color"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:267
+msgid "Get the Pro version to enable Star Color"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:272
+msgid "Add to Cart Button Background Color"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:275
+msgid "Get the Pro version to enable Add to Cart Button Background Color"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:280
+msgid "Add to Cart Button Background Hover Color"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:283
+msgid "Get the Pro version to enable Add to Cart Button Background Hover Color"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:288
+msgid "Add to Cart Text Color"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:291
+msgid "Get the Pro version to enable Add to Cart Text Color"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:296
+msgid "Add to Cart Text Hover Color"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:299
+msgid "Get the Pro version to enable Add to Cart Text Hover Color"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:317
+msgid "Show Product Image"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:321
+msgid "Enable to show product images in the wishlist."
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:324
+msgid "Show Product Name"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:328
+msgid "Enable to show product names in the wishlist."
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:331
+msgid "Show Product Rating"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:335
+msgid "Enable to display product ratings in the wishlist."
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:338
+msgid "Show Product Price"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:342
+msgid "Enable to display product prices in the wishlist."
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:345
+msgid "Show \"Add to Cart\" Button"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:349
+msgid "Enable to show the \"Add to Cart\" button for wishlist items."
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:352
+msgid "Show Product Meta"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:356
+msgid "Enable to show additional product meta information in the wishlist."
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:359
+msgid "After Add to Cart Action"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:364
+msgid "Close Popup After Adding to Cart"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:368
+msgid "Enable to automatically close the popup after adding a product to the cart."
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:371
+msgid "Redirect to Checkout After Adding to Cart"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:375
+msgid "Enable to redirect users to checkout after adding a product to the cart."
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:378
+msgid "Sharing options"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:383
+msgid "Enable Facebook Share"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:387
+msgid "Enable to allow sharing wishlists on Facebook."
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:390
+msgid "Enable X (Twitter) Share"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:394
+msgid "Enable to allow sharing wishlists on X (formerly Twitter)."
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:397
+msgid "Enable Pinterest Share"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:401
+msgid "Enable to allow sharing wishlists on Pinterest."
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:404
+msgid "Enable Email Share"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:408
+msgid "Enable to allow sharing wishlists via email."
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:411
+msgid "Enable WhatsApp Share"
+msgstr ""
+
+#: includes/admin/settings/views/quick-view/admin-settings.php:415
+msgid "Enable to allow sharing wishlists on WhatsApp."
+msgstr ""
+
+#: includes/class-qvwc-install.php:49
+msgid "Quick View Settings"
+msgstr ""
+
+#: includes/class-qvwc-install.php:50
+msgid "Settings"
+msgstr ""
+
+#: includes/class-qvwc.php:65
+msgid "Quick View For WooCommerce requires WooCommerce to work."
+msgstr ""
+
+#: includes/class-qvwc.php:76
+msgid "Quick View For WooCommerce plugin is already included in Essential Kit For WooCommerce plugin. Please deactivate the Product Compare plugin to avoid conflicts."
+msgstr ""
+
+#: includes/public/class-qvwc-quick-view-ajax-handler.php:50
+msgid "Invalid product ID."
+msgstr ""
+
+#: includes/public/class-qvwc-quick-view-ajax-handler.php:57
+msgid "Product not found."
+msgstr ""
+
+#: templates/fields/buy-pro-field.php:11
+msgid "This feature is only available in the Premium Version."
+msgstr ""
+
+#: templates/fields/buy-pro-field.php:15
+msgid "Click %1$shere%2$s to buy."
+msgstr ""
+
+#: templates/fields/image-size-field.php:12
+msgid "Width"
+msgstr ""
+
+#: templates/fields/image-size-field.php:24
+msgid "Height"
+msgstr ""
+
+#: templates/fields/repeater-field.php:14
+#: templates/fields/repeater-field.php:23
+msgid "Meta Label"
+msgstr ""
+
+#: templates/fields/repeater-field.php:15
+#: templates/fields/repeater-field.php:24
+msgid "Meta Key"
+msgstr ""
+
+#: templates/fields/repeater-field.php:17
+msgid "Remove"
+msgstr ""
+
+#: templates/fields/repeater-field.php:28
+msgid "The \"Add Meta on Compare Table\" field enables the addition of custom meta labels and keys to be displayed in the product comparison table."
+msgstr ""
+
+#: templates/fields/repeater-field.php:29
+msgid "Add More"
+msgstr ""
+
+#: templates/quick-view-popup.php:67
+msgid "Add to cart"
+msgstr ""
+
+#: templates/quick-view-popup.php:68
+msgid "Add to Cart"
+msgstr ""
+
+#: templates/quick-view-popup.php:72
+msgid "View Product"
+msgstr ""
