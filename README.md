@@ -1,6 +1,6 @@
-# Product Quickview For Woocommerce
+# Quickview for WooCommerce
 
-**Contributors:** SpiderWares  
+**Contributors:** harshilitaliya  
 **Requires at least:** 5.2  
 **Tested up to:** 6.8  
 **Requires PHP:** 7.4  
@@ -99,7 +99,7 @@ Yes, it works with all WooCommerce-compliant themes.
 Absolutely. Use the settings panel to enable/disable individual features.
 
 ### How can I upgrade to the Pro version?
-Visit [spiderwares.com](https://spiderwares.com/) or go to the plugin settings page to explore Pro features.
+Visit [#](#) or go to the plugin settings page to explore Pro features.
 
 
 ##  Changelog
@@ -110,13 +110,13 @@ Visit [spiderwares.com](https://spiderwares.com/) or go to the plugin settings p
 
 ## 💬 Support
 
-Need help? Visit our [Support Page](https://wordpress.org/support/plugin/quickview-for-woocommerce) or get in touch at [spiderwares.com](https://spiderwares.com/).
+Need help? Visit our [Support Page](https://wordpress.org/support/plugin/quickview-for-woocommerce) or get in touch at [#](#).
 
 
 ##  Upgrade to Pro
 
 Unlock premium features like style controls, content toggles, auto-close, redirect, and social sharing with the **Pro version**.  
-👉 [Upgrade Now](https://spiderwares.com/)
+👉 [Upgrade Now](#)
 
 
 ## 🧾 License

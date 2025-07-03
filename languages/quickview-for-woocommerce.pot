@@ -1,4 +1,4 @@
-# Copyright (C) 2025 SpiderWares
+# Copyright (C) 2025 harshilitaliya
 # This file is distributed under the GPL v2 or later.
 msgid ""
 msgstr ""
@@ -26,12 +26,12 @@ msgstr ""
 
 #. Author of the plugin
 #: D:\wamp64\www\quick-view\wp-content\plugins\quickview-for-woocommerce\quickview-for-woocommerce.php
-msgid "SpiderWares"
+msgid "harshilitaliya"
 msgstr ""
 
 #. Author URI of the plugin
 #: D:\wamp64\www\quick-view\wp-content\plugins\quickview-for-woocommerce\quickview-for-woocommerce.php
-msgid "https://spiderwares.com/"
+msgid "#"
 msgstr ""
 
 #: includes/admin/settings/class-qvwc-admin-menu.php:107

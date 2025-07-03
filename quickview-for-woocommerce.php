@@ -1,18 +1,17 @@
 <?php
 /**
- * Plugin Name:       SpiderWares Product Quickview for WooCommerce
+ * Plugin Name:       Quickview for WooCommerce
  * Description:       Add a quick view feature to your WooCommerce store, allowing customers to preview product details in a popup without leaving the current page.
  * Version:           1.0.0 
  * Requires at least: 5.2
  * Requires PHP:      7.4
- * Author:            SpiderWares
- * Author URI:        https://spiderwares.com/
+ * Author:            harshilitaliya
  * License:           GPL v2 or later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Requires Plugins:  woocommerce
- * Text Domain:       product-quickview-for-woocommerce
+ * Text Domain:       quickview-for-woocommerce
  *
- * @package SpiderWares Product Quickview for WooCommerce
+ * @package Quickview for WooCommerce
  */
 
 defined( 'ABSPATH' ) || exit;
@@ -42,23 +41,23 @@ if ( ! defined( 'QVWC_URL' ) ) :
 endif;
 
 if ( ! defined( 'QVWC_REVIEWS' ) ) :
-    define( 'QVWC_REVIEWS', 'https://spiderwares.com/' ); // Define the plugin directory URL.
+    define( 'QVWC_REVIEWS', '#' ); // Define the plugin directory URL.
 endif;
 
 if ( ! defined( 'QVWC_CHANGELOG' ) ) :
-    define( 'QVWC_CHANGELOG', 'https://spiderwares.com/' ); // Define the plugin directory URL.
+    define( 'QVWC_CHANGELOG', '#' ); // Define the plugin directory URL.
 endif;
 
 if ( ! defined( 'QVWC_DISCUSSION' ) ) :
-    define( 'QVWC_DISCUSSION', 'https://spiderwares.com/' ); // Define the plugin directory URL.
+    define( 'QVWC_DISCUSSION', '#' ); // Define the plugin directory URL.
 endif;
 
 if ( ! defined( 'QVWC_UPGRADE_URL' ) ) :
-    define( 'QVWC_UPGRADE_URL', 'https://spiderwares.com/' ); // Define the upgrade URL.
+    define( 'QVWC_UPGRADE_URL', '#' ); // Define the upgrade URL.
 endif;
 
 if ( ! defined( 'QVWC_PRO_VERSION_URL' ) ) :
-    define( 'QVWC_PRO_VERSION_URL', 'https://spiderwares.com/' ); // Define the Pro Version URL.
+    define( 'QVWC_PRO_VERSION_URL', '#' ); // Define the Pro Version URL.
 endif;
 
 if ( ! class_exists( 'QVWC', false ) ) :
